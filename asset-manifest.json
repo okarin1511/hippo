@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hippo/static/css/main.60d5a65c.chunk.css",
+    "main.js": "/hippo/static/js/main.341b2d4b.chunk.js",
+    "main.js.map": "/hippo/static/js/main.341b2d4b.chunk.js.map",
+    "runtime-main.js": "/hippo/static/js/runtime-main.dada1504.js",
+    "runtime-main.js.map": "/hippo/static/js/runtime-main.dada1504.js.map",
+    "static/js/2.f6349434.chunk.js": "/hippo/static/js/2.f6349434.chunk.js",
+    "static/js/2.f6349434.chunk.js.map": "/hippo/static/js/2.f6349434.chunk.js.map",
+    "static/js/3.ff46c866.chunk.js": "/hippo/static/js/3.ff46c866.chunk.js",
+    "static/js/3.ff46c866.chunk.js.map": "/hippo/static/js/3.ff46c866.chunk.js.map",
+    "index.html": "/hippo/index.html",
+    "static/css/main.60d5a65c.chunk.css.map": "/hippo/static/css/main.60d5a65c.chunk.css.map",
+    "static/js/2.f6349434.chunk.js.LICENSE.txt": "/hippo/static/js/2.f6349434.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dada1504.js",
+    "static/js/2.f6349434.chunk.js",
+    "static/css/main.60d5a65c.chunk.css",
+    "static/js/main.341b2d4b.chunk.js"
+  ]
+}
